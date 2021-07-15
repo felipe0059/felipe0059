@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Felipe ! |  Olá a todos👋, meu nome é Felipe !
+### Hi there 👋, My name is Felipe ! |  Olá pessoal 👋, meu nome é Felipe !
 #### Eu sou iniciante em programação. 
 **Atualmente residindo no interior de São Paulo, buscando novas experiências nesse universo dos códigos!**
 
