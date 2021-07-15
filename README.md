@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Felipe/ Meu nome é Felipe
 #### Eu sou iniciante em programação. / I'm a Beginner.
-![Eu sou iniciante em programação. / Beginner.]
+![Eu sou iniciante em programação. / I'm a Beginner.]
 
 Atualmente residente do interior de São Paulo, buscando novas experiência nesse universo dos códigos!
 
