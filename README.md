@@ -1,14 +1,13 @@
 ### Hi there 👋, My name is Felipe ! /Olá a todos👋, meu nome é Felipe !
 #### Eu sou iniciante em programação. / I'm a Beginner.
 **Atualmente residente do interior de São Paulo, buscando novas experiências nesse universo dos códigos!**
-
 **GearHead**
 
 Skills: JS/WEB
 
 - 🔭 I’m currently working on Web projects 
 - 🌱 I’m currently learning JS! 
-- 📫 How to reach me: https://www.linkedin.com/in/felipe-gustavo-hon%C3%B3rio/ 
+- 📫 How to reach me: felipe.nx4@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/felipe0059)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-gustavo-hon%C3%B3rio//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/felipegstv/?hl=en/)  
