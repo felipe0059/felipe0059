@@ -1,4 +1,7 @@
-### Hi there 👋
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=felipe0059&show_icons=true&count_private=true&theme=chartreuse-dark)
+
+- 🌱 Aprendendo o tal do Java!
+
 
 <!--
 **felipe0059/felipe0059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
