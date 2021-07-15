@@ -1,22 +1,33 @@
-### Hi there! /Olá galera! 👋, My name is Felipe/ Meu nome é Felipe
-#### Eu sou iniciante em programação. / Beginner.
-![Eu sou iniciante em programação. / Beginner.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, My name is Felipe/ Meu nome é Felipe
+#### Eu sou iniciante em programação. / I'm a Beginner.
+![Eu sou iniciante em programação. / Beginner.]
 
-Residente do interior de São Paulo, buscando novas experiência nesse universo dos códigos
+Atualmente residente do interior de São Paulo, buscando novas experiência nesse universo dos códigos!
 
 Skills: JS/WEB
 
-- 🔭 I’m currently working on this page. 
-
-- 🌱 Aprendendo o tal do Java!
-
-
+- 🔭 I’m currently working on Web projects 
+- 🌱 I’m currently learning JS! 
+- 📫 How to reach me: https://www.linkedin.com/in/felipe-gustavo-hon%C3%B3rio/ 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/felipe0059)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-gustavo-hon%C3%B3rio//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/felipegstv/?hl=en/)  
 
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=felipe0059&show_icons=true&count_private=true&theme=chartreuse-dark)
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=felipe0059)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe0059)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe0059&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipe0059)  
+
+![GitHub metrics](https://metrics.lecoq.io/felipe0059)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=felipe0059)  
+
+![Profile views](https://gpvc.arturio.dev/felipe0059)  
 <!--
 **felipe0059/felipe0059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
