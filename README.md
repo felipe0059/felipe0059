@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Felipe ! /Olá a todos👋, meu nome é Felipe !
 #### Eu sou iniciante em programação. / I'm a Beginner.
-**Atualmente residente do interior de São Paulo, buscando novas experiência nesse universo dos códigos!**
+**Atualmente residente do interior de São Paulo, buscando novas experiências nesse universo dos códigos!**
+**GearHead**
 
 Skills: JS/WEB
 
