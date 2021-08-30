@@ -3,10 +3,10 @@
 
 **GearHead**
 
-Skills: JS/WEB
+Skills: Java/SpringBoot/MySql
 
 - 🔭 I’m currently working on Web projects 
-- 🌱 I’m currently learning JS! 
+- 🌱 I’m currently learning Java .. 
 - 📫 How to reach me: felipe.nx4@gmail.com
 
 
