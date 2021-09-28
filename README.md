@@ -3,7 +3,7 @@
 
 **GearHead**
 
-Skills: Java/SpringBoot/MySql
+Skills: Java/HTML/CSS
 
 - 🔭 I’m currently working on Web projects 
 - 🌱 I’m currently learning Java .. 
