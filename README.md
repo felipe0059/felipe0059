@@ -1,12 +1,10 @@
-#### Eu sou iniciante em programação. 
+####  iniciante em java. 
 **Atualmente residindo no interior de São Paulo, buscando novas experiências nesse universo dos códigos!**
 
-**GearHead**
 
 Skills: Java/HTML/CSS
 
-- 🔭 I’m currently working on Web projects 
-- 🌱 I’m currently learning Java .. 
+- 🔭 I’m currently working and learning on Web projects with java.
 - 📫 How to reach me: felipe.nx4@gmail.com
 
 
