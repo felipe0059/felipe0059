@@ -4,7 +4,7 @@
 
 Skills: Java/HTML/CSS
 
-- 🔭 I’m currently working and learning on Web projects with java.
+- 🔭 I’m currently working and learning with java projects.
 - 📫 How to reach me: felipe.nx4@gmail.com
 
 
