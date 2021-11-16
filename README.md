@@ -2,10 +2,10 @@
 **Atualmente residindo no interior de São Paulo, buscando novas experiências nesse universo dos códigos!**
 
 
-Skills: Java/HTML/CSS
+Skills: Java/SpringBoot/SQL
 
-- 🔭 I’m currently working and learning with java projects.
-- 📫 How to reach me: felipe.nx4@gmail.com
+- 🔭 Atualmente estudando a elaboração de API's com Spring.
+- 📫 Como me encontrar: felipe.nx4@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/felipe0059)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipe-gustavo-hon%C3%B3rio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/felipegstv/?hl=en/)  
