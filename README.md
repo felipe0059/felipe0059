@@ -2,7 +2,7 @@
 **Estudando o Framework Spring e as diversas possibilidades que ele oferece.**
 
 
-Skills: Java/SpringBoot/SQL-NoSql/Junit
+Skills: Java/SpringBoot/Databases/Junit
 
 - 🔭 Atualmente estudando a elaboração de API's com Spring.
 - 📫 Como me encontrar: felipe.nx4@gmail.com
@@ -10,7 +10,6 @@ Skills: Java/SpringBoot/SQL-NoSql/Junit
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipe-gustavo-honório/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/felipegstv/?hl=en/)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 ![Profile views](https://gpvc.arturio.dev/felipe0059)  
 <!--
