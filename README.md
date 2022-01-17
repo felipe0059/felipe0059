@@ -1,5 +1,5 @@
 ####  Estudante de Java. 
-**Estudando o Framework Spring e as diversas possibilidades que ele oferece**
+**Estudando o Framework Spring e as diversas possibilidades que ele oferece.**
 
 
 Skills: Java/SpringBoot/SQL-NoSql/Junit
