@@ -1,5 +1,5 @@
 
-**Estudando o Framework Spring e as diversas possibilidades que ele oferece.**
+**Aprendendo a desenvolver aplicações Java com Framework Spring.**
 
 
 Skills: Java/SpringBoot/Databases/Junit
