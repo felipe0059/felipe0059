@@ -8,7 +8,7 @@ Skills: Java/SpringBoot/Databases/Junit
 - 📫 Como me encontrar: felipe.nx4@gmail.com
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipe-gustavo-honório/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/felipegstv/?hl=en/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipe-gustavo-honório/)
 
 
 ![Profile views](https://gpvc.arturio.dev/felipe0059)  
